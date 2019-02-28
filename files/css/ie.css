@@ -1,0 +1,29 @@
+/*Befehl Media-Query large Screen, s. app.css: */
+#header .head {
+    height:156px;         
+}   
+.stama {
+    padding-top:100px;    
+}
+
+.telefon {
+    padding-top:98px;    
+}
+
+.nav-bar {
+    display:inline-block;
+}
+
+.level_2 {
+    text-align:left;
+}
+
+.navsub {
+    margin-top:40px;
+}
+
+.musik {
+    width:155px;
+    margin:20px 0px 0px auto;
+    padding-right:15px;    
+}
